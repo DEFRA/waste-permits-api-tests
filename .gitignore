@@ -1,0 +1,18 @@
+.DS_Store
+.env
+
+/node_modules/
+/cucumberjs/features/reports/
+/govuk_modules/
+/log/
+/public/
+/uploads/
+
+# Test coverage output files
+coverage.html
+lcov.info
+config.js
+configCRM.js
+
+# IDE
+.idea
